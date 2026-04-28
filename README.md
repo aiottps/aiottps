@@ -9,9 +9,8 @@ In practice, I focus on cross-system database integration and the automation of 
 ## Professional Expertise & Technical Stack
 
 * **Data Engineering & Integration**: Specialized in developing ETL processes between heterogeneous databases, designing data flow architectures, and implementing real-time data synchronization.
-* **System Architecture & Maintenance**: Experienced in cross-platform management and deployment across Windows and Linux (CentOS) server environments.
 * **Data Analysis & Visualization**: Responsible for transforming complex underlying data into clear reports with high business value, providing real-time operational metrics.
-* **Performance Optimization & Troubleshooting**: Proficient in handling database connection issues (including ODBC and OLE DB driver-level conversions) and low-level system connectivity troubleshooting.
+* **Performance Optimization & Troubleshooting**: Proficient in handling database connection issues and low-level system connectivity troubleshooting.
 
 ## Outside of Work, I Enjoy...
 
