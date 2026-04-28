@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**aiottps/aiottps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I am a **Data Engineer**, **Data Analyst**, and **Digital Transformation Promoter**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In practice, I focus on cross-system database integration and the automation of data processing workflows. I am dedicated to helping manufacturing facilities organize complex data, establishing stable and scalable data platforms to implement digital transformation and ensure that management can drive operational decisions through precise data.
+
+## Professional Expertise & Technical Stack
+
+* **Data Engineering & Integration**: Specialized in developing ETL processes between heterogeneous databases, designing data flow architectures, and implementing real-time data synchronization.
+* **System Architecture & Maintenance**: Experienced in cross-platform management and deployment across Windows and Linux (CentOS) server environments.
+* **Data Analysis & Visualization**: Responsible for transforming complex underlying data into clear reports with high business value, providing real-time operational metrics.
+* **Performance Optimization & Troubleshooting**: Proficient in handling database connection issues (including ODBC and OLE DB driver-level conversions) and low-level system connectivity troubleshooting.
+
+## Outside of Work, I Enjoy...
+
+* Reading
+* Continuous Learning
+* Participating in Group Activities
+
+### Connect with Me
+
+* Email:** aiottps@gmail.com
+* GitHub:** https://github.com/aiottps
